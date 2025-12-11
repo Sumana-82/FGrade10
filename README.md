@@ -7,11 +7,21 @@ Freshness is a key factor in food safety, pricing efficiency, and quality assess
 This dataset provides a valuable benchmark for building accurate, cost-effective AI models for agricultural applications, with the goal of improving supply chain efficiency, reducing waste, and supporting scalable post-harvest quality control.  
 
 ## Features  
-- **~2,500 high-quality images** of four commonly consumed vegetables and fruits:  
+- **~22,500 high-quality images** of four commonly consumed vegetables and fruits:  
   - Cucumber  
   - Tomato  
   - Bitter Gourd  
-  - Banana  
+  - Banana
+  - Plum
+  - Ginger
+  - Spine Gourd
+  - Ladies Finger
+  - Parbol
+  - Chili
+  - Grape
+  - Carrot
+  - Lemon
+  - Litchi  
 - Captured **daily over degradation cycles** to document freshness levels.  
 - Organized into **10 distinct freshness classes**, from "fresh" to "fully spoiled".  
 - Images annotated by multiple volunteers through visual inspection and consensus grading.  
